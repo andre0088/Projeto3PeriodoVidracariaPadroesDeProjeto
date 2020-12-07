@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<list>
+  <DTO.ClienteDTO>
+    <nome>André</nome>
+    <endereco>Rua 1</endereco>
+    <cpf>111</cpf>
+    <telefone>87991530164</telefone>
+    <listaClientes/>
+  </DTO.ClienteDTO>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTO.FuncionarioDTO>
+  <nome>An</nome>
+  <endereco>Rua shxl</endereco>
+  <cpf>222</cpf>
+  <telefone>555555</telefone>
+  <listaFuncionarios/>
+  <senha>123456</senha>
+  <cargo>Atendente</cargo>
+  <salario>28.0</salario>
+  <email>an@ann.com</email>
+</DTO.FuncionarioDTO>
